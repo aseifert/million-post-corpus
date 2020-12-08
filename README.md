@@ -9,3 +9,7 @@ If you want to reproduce the experiments, see the [experiments folder README](ex
 The software in this Git repository's master branch is available under the MIT license (see [LICENSE.txt](LICENSE.txt)).
 
 Note however that the data set itself, available from the [corpus website](https://ofai.github.io/million-post-corpus), is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+## About This Fork
+
+This fork adds the corpus data files in CSV format.
